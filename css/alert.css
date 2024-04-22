@@ -1,7 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 .alert-container {
     position: fixed;
     bottom: 0;
     left: 0;
     right: 0;
     z-index: 9999;
+}
+.card{
+    margin: 10px;
+    border-color: white;
+}
+.btn.btn-info{
+    width: 100px;
+    background-color: #ffe6d4;
+    color: #ed6435;
+    border-color: #ffe6d4;
+    border-radius: 60px;
+    align-items: center;
+    margin: auto;
+}
+.btn.btn-info:hover{
+    background-color: #ed6435;
+    color: #ffe6d4;
+    border-color: #ed6435;
+    border-radius: 60px;
+    align-items: center;
+    margin: auto;
+}
+.btn.btn-primary.btn-buy {
+    width: 100px;
+    background-color: rgb(178, 231, 233);
+    color: #45c1c7;
+    border-radius: 60px;
+    border-color: rgb(178, 231, 233);
+}
+.btn.btn-primary.btn-buy:hover {
+    background-color: #45c1c7;
+    color: rgb(178, 231, 233);
+    border-radius: 60px;
+    border-color: #45c1c7;
+}
+.logo{
+    width: 182px;
+}
+p{
+    color: #ed6435;
+    font-family: "PT Sans";
+    font-size: 18px;
+    font-weight: 700;
+}
+h5{
+    font-family: "PT Sans";
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(149, 139, 126);
+}
+
+.main__block{
+    padding: 115px 24px 150px 24px;
+    background-image: url("../img/fon.png");
+    background-position: bottom;
+}
+.main__block-title{
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "Baloo 2";
+    color: #3c3731;
+    line-height: 48px;
+}
+.main__block-text{
+    font-size: 19px;
+    font-weight: 400;
+    font-family: 'PT Sans';
+    color: #958b7e;
+    margin: 35px 0;
+}
+.main__button-about{
+    background-color: #ffe6d4;
+    color: #ed6435;
+    padding: 15px 28px;
+    width: 126.4px;
+    border-width: 1px;
+    border-radius: 50px;
+    font-size: 16.5px;
+    font-weight: 600;
+    font-family: 'Baloo 2';
+    text-decoration: none;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.main__button-about:hover{
+    background-color: rgb(178, 231, 233);
+    color: #45c1c7;
+}
+.main__button-categories{
+    background-color: none;
+    padding: 8px 28px;
+    border: solid;
+    width: 170.7px;
+    border-width: 1px;
+    border-radius: 50px;
+    border-color: #45c1c7;
+    color: #45c1c7;
+    font-size: 16.5px;
+    font-weight: 600;
+    font-family: 'Baloo 2';
+    text-decoration: none;
+}
+.main__button-categories:hover{
+    background-color: #45c1c7;
+    color: white;
+}
+.main__block-buttons{
+    display: flex;
+    flex-direction: column;
 }

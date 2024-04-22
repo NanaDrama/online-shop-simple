@@ -3,238 +3,272 @@
         "id": "1",
         "title": "DORA Metal Pet Brush",
         "image": "metal-brush.png",
-        "description": "Baby Yoda sticker",
+        "pet": "all",
+        "description": "Keep your pet's coat soft, manageable, and good-looking will be much easier with this brush. It has flexible meal pins to remove excess fur and tangles while not hurting your pet.",
         "price": 15.00
     },
     {
         "id": "2",
         "title": "Kitten's Heaven Set",
         "image": "kitten-set.png",
-        "description": "Baby Yoda sticker",
+        "pet": "cat",
+        "description": "Have you adopted a kitten? Congratulations! It will love this set of toys for sure. Here is everything to entertain your pet — bright woolen mice, sticks with ropes, and clinking balls.",
         "price": 12.00
     },
     {
         "id": "3",
         "title": "OPTY Pet Carrier ",
         "image": "opty.png",
-        "description": "Baby Yoda sticker",
+        "pet": "all",
+        "description": "This plastic carrier is large enough even for adult cats. We cannot relieve pets of the stress of being carried outside, but we can make it more comfortable, right?",
         "price": 8.00
     },
     {
         "id": "4",
         "title": "AGA Rope Toy",
         "image": "aga.png",
-        "description": "Baby Yoda sticker",
+        "pet": "dog",
+        "description": "Play with your dog with this great and simple toy. It features a tennis ball in the middle with a knotted rope running through it. Great for tug-and-fetch games.",
         "price": 5.00
     },
     {
         "id": "5",
         "title": "Dora Pet Carrier",
         "image": "dora.png",
-        "description": "Baby Yoda sticker",
+        "pet":"all",
+        "description": "Do you need to go somewhere with your pet? This carrier is perfect for this. It allows enough air to pass through thanks to the grate and allows the pet to see what is happening around.",
         "price": 23.00
     },
     {
         "id": "6",
         "title": "VITALIFE Crunch Sticks Treat",
         "image": "crunch.png",
-        "description": "Baby Yoda sticker",
+        "pet":"rodents and parrots",
+        "description": "Treat your hamster or rabbit to a crunchy baked treat stick. It is made with seeds, whole grains, vitamins, and extra calcium. Support your pet's healthy teeth!",
         "price": 5.00
     },
     {
         "id": "7",
         "title": "DUNA Woven Toy",
         "image": "duna.png",
-        "description": "Baby Yoda sticker",
-        "price": 1.50
+        "pet":"all",
+        "description": "Here's a universal toy for your pet. It can bite, throw, and scratch this woolen jingle toy, and still, it will serve you for a very long time.",
+        "price": 1.0
     },
     {
         "id": "8",
         "title": "SERA Woven Leash",
         "image": "sera.png",
-        "description": "Baby Yoda sticker",
+        "pet":"all",
+        "description": "Simple and lightweight leash for your pet. The red color will keep your companion in sight in the crowd.",
         "price": 2.00
     },
     {
         "id": "9",
         "title": "OPTY Plastic Bowl",
         "image": "bowl.png",
-        "description": "Baby Yoda sticker",
+        "pet":"all",
+        "description": "This is a simple and safe bowl for your animal to use for both food and water. The bowl is made of high-quality plastic.",
         "price": 3.00
     },
     {
         "id": "10",
         "title": "EGO Butterfly Toy",
         "image": "ego.png",
-        "description": "Baby Yoda sticker",
+        "pet":"cat",
+        "description": "This toy will entertain your cat for a long time. The butterfly is attached to the base with a spring and will swing in all directions, attracting the attention of your pet.",
         "price": 8.00
     },
     {
         "id": "11",
         "title": "DOGGY Fun Set ",
         "image": "doggy.png",
-        "description": "Baby Yoda sticker",
+        "pet":"dog",
+        "description": "This is the perfect set to play with your dog! It includes a safety glove, a strong braided rope, and a toy that is so cool to bite and pull!",
         "price": 6.00
     },
     {
         "id": "12",
         "title": "DUNA Pillow Bed",
         "image": "pillow.png",
-        "description": "Baby Yoda sticker",
+        "pet":"dog",
+        "description": "Present your pup a totally comfortable bed! It is super soft yet easy to clean. The pillow is lightweight, so you can move it to any room or take it with your when traveling.",
         "price": 10.00
     },
     {
         "id": "13",
         "title": "AGA Retractable Leash",
         "image": "aga-leash.png",
-        "description": "Baby Yoda sticker",
+        "pet":"dog",
+        "description": "This leash is a great choice dogs of medium size. It gives them freedom of movement but, at the same time, will help you stop your pet from running too away from you.",
         "price": 33.00
     },
     {
         "id": "14",
         "title": "DOGGY 2-Bunch Toy ",
         "image": "bunch.png",
-        "description": "Baby Yoda sticker",
+        "pet":"dog",
+        "description": "Does your dog like to chew and pull on a toy? It will love this little thing! The toy consists of a plastic ring and two thick rope tassels for your active games.",
         "price": 5.00
     },
     {
         "id": "15",
         "title": "AGA Mice Set ",
         "image": "mice.png",
-        "description": "Baby Yoda sticker",
+        "pet":"cat",
+        "description": "This set of 3 colorful mice will entertain your cat for a long time. They are made of durable wool and feel very similar to real mice. Inside each mouse, there is a bell that attracts your pet's attention.",
         "price": 3.00
     },
     {
         "id": "16",
         "title": "VITALIFE 2-Bowls Set ",
         "image": "bowls-set.png",
-        "description": "Baby Yoda sticker",
+        "pet":"cat",
+        "description": "These two ceramic bowls on a metal stand will fit perfectly into your decor and are completely pet-safe. Your cat will look forward to be fed!",
         "price": 9.00
     },
     {
         "id": "17",
         "title": "AGA Leash & Collar",
         "image": "collar.png",
-        "description": "Baby Yoda sticker",
+        "pet":"cat",
+        "description": "Does your cat like to walk outside with you? Buy it a collar and leash so you don't lose sight of your pet! The set is made of high-quality, strong, but soft material that will not harm the animal.",
         "price": 13.00
     },
     {
         "id": "18",
         "title": "DUNA Gray Bed",
         "image": "bed.png",
-        "description": "Baby Yoda sticker",
+        "pet":"cat",
+        "description": "Does your cat dislike beds and prefer to sleep on your face? You just haven't tried DUNA beds! They are so comfortable and soft that your cat will definitely appreciate them.",
         "price": 25.00
     },
     {
         "id": "19",
         "title": "DORA Hanging Mirror",
         "image": "mirror.png",
-        "description": "Baby Yoda sticker",
+        "pet":"parrots",
+        "description": "We do not know why birds love to look in the mirror so much, but we do know that a mirror from the DORA brand is a great gift for your pet. It is really easy to hang it in the cage to the delight of your small friend.",
         "price": 14.00
     },
     {
         "id": "20",
         "title": "VETRA Hanging Nest",
         "image": "nest.png",
-        "description": "Baby Yoda sticker",
+        "pet":"parrots",
+        "description": "Sometimes you really want to hide from everyone! Thanks to this hanging nest, your parrot will have enough privacy.",
         "price": 8.00
     },
     {
         "id": "21",
         "title": "DORA Wood Swing ",
         "image": "swing.png",
-        "description": "Baby Yoda sticker",
+        "pet":"parrots",
+        "description": "Provide your parrot with a place to perch and swing! This swing is easily attached to the inside of the cage and swings back and forth freely.",
         "price": 7.00
     },
     {
         "id": "22",
         "title": "OPTY Wooden Stand ",
         "image": "stand.png",
-        "description": "Baby Yoda sticker",
+        "pet":"parrots",
+        "description": "This ladder stand is made of wood and is sure to please your pets. The stand is suitable for large cages and is designed for 3-4 birds.",
         "price": 13.00
     },
     {
         "id": "23",
         "title": "SERA Purple Collar ",
         "image": "sera-collar.png",
-        "description": "Baby Yoda sticker",
+        "pet": "rabbit",
+        "description": "Nice and comfortable collar for your rabbit made of soft braided material. You will love its rich color, and your pet will appreciate the ringing ball on the collar.",
         "price": 2.00
     },
     {
         "id": "24",
         "title": "AGA Clinking Toy ",
         "image": "clinking.png",
-        "description": "Baby Yoda sticker",
+        "pet": "rabbit",
+        "description": "This small toy will keep your pet entertained while you are away. The ball is made of durable rubber, and there is a bell inside. Your rabbit will love it!",
         "price": 2.00
     },
     {
         "id": "25",
         "title": "HARNO Rabbit Cage",
         "image": "cage.png",
-        "description": "Baby Yoda sticker",
+        "pet": "rabbit",
+        "description": "A middle-sized cage for your pet. Created for easy access and interaction, this cage features simple, no-tool assembly. Make the new home of your rabbit even more comfy!",
         "price": 60.00
     },
     {
         "id": "26",
         "title": "DORA Rabbit Brush",
         "image": "rabbit-brush.png",
-        "description": "Baby Yoda sticker",
+        "pet": "rabbit",
+        "description": "Maintain your pet's coat in perfect condition with this brush. It will help get rid of tangles and shedding hair without causing discomfort to the rabbit.",
         "price": 10.00
     },
     {
         "id": "27",
         "title": "AGA Bowl for Hamsters",
         "image": "hamster.png",
-        "description": "Baby Yoda sticker",
+        "pet": "hamster",
+        "description": "The plastic hamster bowl is stylish and safe to use. You can pour water or put dry food in there for your pet.",
         "price": 2.00
     },
     {
         "id": "28",
         "title": "TISCO Toy Wheel",
         "image": "wheel.png",
-        "description": "Baby Yoda sticker",
+        "pet": "hamster",
+        "description": "Hamsters and guinea pigs love to run in the wheel! Not sure? Buy and see for yourself! Give your pet their favorite wheel for crazy runs.",
         "price": 9.00
     },
     {
         "id": "29",
         "title": "STERCO Rainbow Balls ",
         "image": "balls.png",
-        "description": "Baby Yoda sticker",
-        "price": 3.50
+        "pet": "hamster",
+        "description": "Great balls to awake the natural instinct to chew in your hamster, rat, or guinea pig. The balls are long-lasting and made of safe materials (willow twigs inside).",
+        "price": 3.00
     },
     {
         "id": "30",
         "title": "AGA Green Cage ",
         "image": "aga-cage.png",
-        "description": "Baby Yoda sticker",
+        "pet": "hamster",
+        "description": "This cage is made for active hamsters that enjoy exploring their new home. The cages features easy access and is compatible with other AGA accessories for hamsters.",
         "price": 25.00
     },
     {
         "id": "31",
         "title": "DUCCA Air Pump ",
         "image": "pump.png",
-        "description": "Baby Yoda sticker",
+        "pet": "fish",
+        "description": "The DUCCA air pump provides aeration for rich, oxygenated water. It operates really quietly and without vibrations, so you won't be disturbed even if the aquarium is in your bedroom.",
         "price": 42.00
     },
     {
         "id": "32",
         "title": "TISCO 50 Liter Aquarium",
         "image": "aquarium.png",
-        "description": "Baby Yoda sticker",
+        "pet": "fish",
+        "description": "Looking for a new home for your fish? This aquarium may be the right choice for you. It features a medium size perfect for any room.",
         "price": 70.00
     },
     {
         "id": "33",
         "title": "VEGA Fish Castle",
         "image": "castle.png",
-        "description": "Baby Yoda sticker",
+        "pet": "fish",
+        "description": "Aquarium decoration in the form of a real castle will delight your eyes, surprise guests, and serve as additional entertainment for your fish.",
         "price": 6.00
     },
     {
         "id": "34",
         "title": "TISCO Landing Net",
         "image": "net.png",
-        "description": "Baby Yoda sticker",
+        "pet": "fish",
+        "description": "This net is indispensable when you need to clean your aquarium. This accessory from a reliable manufacturer will serve you for a really long time.",
         "price": 4.00
     }
 ]

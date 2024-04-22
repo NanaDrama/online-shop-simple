@@ -18,9 +18,9 @@ class ProductList {
                 <img src="img/${product.image}" class="card-img-top" alt="${product.title}">
                 <div class="card-body">
                     <h5 class="card-title">${product.title}</h5>
-                    <p class="card-text">${product.description}</p>
+                    <p class="card-text">$${product.price}.00</p>
                     <a href="#" class="btn btn-info" data-bs-toggle="modal" data-bs-target="#product-info-modal" data-id=${product.id}>Info</a>
-                    <a href="#" class="btn btn-primary btn-buy" data-id=${product.id}> ${product.price} Buy</a>
+                    <a href="#" class="btn btn-primary btn-buy" data-id=${product.id}>Buy</a>
                 </div>
         </article>`;
     }
