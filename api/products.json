@@ -3,204 +3,238 @@
         "id": "1",
         "title": "DORA Metal Pet Brush",
         "image": "metal-brush.png",
+        "description": "Baby Yoda sticker",
         "price": 15.00
     },
     {
         "id": "2",
         "title": "Kitten's Heaven Set",
         "image": "kitten-set.png",
+        "description": "Baby Yoda sticker",
         "price": 12.00
     },
     {
         "id": "3",
         "title": "OPTY Pet Carrier ",
         "image": "opty.png",
+        "description": "Baby Yoda sticker",
         "price": 8.00
     },
     {
         "id": "4",
         "title": "AGA Rope Toy",
         "image": "aga.png",
+        "description": "Baby Yoda sticker",
         "price": 5.00
     },
     {
         "id": "5",
         "title": "Dora Pet Carrier",
         "image": "dora.png",
+        "description": "Baby Yoda sticker",
         "price": 23.00
     },
     {
         "id": "6",
         "title": "VITALIFE Crunch Sticks Treat",
         "image": "crunch.png",
+        "description": "Baby Yoda sticker",
         "price": 5.00
     },
     {
         "id": "7",
         "title": "DUNA Woven Toy",
         "image": "duna.png",
+        "description": "Baby Yoda sticker",
         "price": 1.50
     },
     {
         "id": "8",
         "title": "SERA Woven Leash",
         "image": "sera.png",
+        "description": "Baby Yoda sticker",
         "price": 2.00
     },
     {
         "id": "9",
         "title": "OPTY Plastic Bowl",
         "image": "bowl.png",
+        "description": "Baby Yoda sticker",
         "price": 3.00
     },
     {
         "id": "10",
         "title": "EGO Butterfly Toy",
         "image": "ego.png",
+        "description": "Baby Yoda sticker",
         "price": 8.00
     },
     {
         "id": "11",
         "title": "DOGGY Fun Set ",
         "image": "doggy.png",
+        "description": "Baby Yoda sticker",
         "price": 6.00
     },
     {
         "id": "12",
         "title": "DUNA Pillow Bed",
         "image": "pillow.png",
+        "description": "Baby Yoda sticker",
         "price": 10.00
     },
     {
         "id": "13",
         "title": "AGA Retractable Leash",
         "image": "aga-leash.png",
+        "description": "Baby Yoda sticker",
         "price": 33.00
     },
     {
         "id": "14",
         "title": "DOGGY 2-Bunch Toy ",
         "image": "bunch.png",
+        "description": "Baby Yoda sticker",
         "price": 5.00
     },
     {
         "id": "15",
         "title": "AGA Mice Set ",
         "image": "mice.png",
+        "description": "Baby Yoda sticker",
         "price": 3.00
     },
     {
         "id": "16",
         "title": "VITALIFE 2-Bowls Set ",
         "image": "bowls-set.png",
+        "description": "Baby Yoda sticker",
         "price": 9.00
     },
     {
         "id": "17",
         "title": "AGA Leash & Collar",
         "image": "collar.png",
+        "description": "Baby Yoda sticker",
         "price": 13.00
     },
     {
         "id": "18",
         "title": "DUNA Gray Bed",
         "image": "bed.png",
+        "description": "Baby Yoda sticker",
         "price": 25.00
     },
     {
         "id": "19",
         "title": "DORA Hanging Mirror",
         "image": "mirror.png",
+        "description": "Baby Yoda sticker",
         "price": 14.00
     },
     {
         "id": "20",
         "title": "VETRA Hanging Nest",
         "image": "nest.png",
+        "description": "Baby Yoda sticker",
         "price": 8.00
     },
     {
         "id": "21",
         "title": "DORA Wood Swing ",
         "image": "swing.png",
+        "description": "Baby Yoda sticker",
         "price": 7.00
     },
     {
         "id": "22",
         "title": "OPTY Wooden Stand ",
         "image": "stand.png",
+        "description": "Baby Yoda sticker",
         "price": 13.00
     },
     {
         "id": "23",
         "title": "SERA Purple Collar ",
         "image": "sera-collar.png",
+        "description": "Baby Yoda sticker",
         "price": 2.00
     },
     {
         "id": "24",
         "title": "AGA Clinking Toy ",
         "image": "clinking.png",
+        "description": "Baby Yoda sticker",
         "price": 2.00
     },
     {
         "id": "25",
         "title": "HARNO Rabbit Cage",
         "image": "cage.png",
+        "description": "Baby Yoda sticker",
         "price": 60.00
     },
     {
         "id": "26",
         "title": "DORA Rabbit Brush",
         "image": "rabbit-brush.png",
+        "description": "Baby Yoda sticker",
         "price": 10.00
     },
     {
         "id": "27",
         "title": "AGA Bowl for Hamsters",
         "image": "hamster.png",
+        "description": "Baby Yoda sticker",
         "price": 2.00
     },
     {
         "id": "28",
         "title": "TISCO Toy Wheel",
         "image": "wheel.png",
+        "description": "Baby Yoda sticker",
         "price": 9.00
     },
     {
         "id": "29",
         "title": "STERCO Rainbow Balls ",
         "image": "balls.png",
+        "description": "Baby Yoda sticker",
         "price": 3.50
     },
     {
         "id": "30",
         "title": "AGA Green Cage ",
         "image": "aga-cage.png",
+        "description": "Baby Yoda sticker",
         "price": 25.00
     },
     {
         "id": "31",
         "title": "DUCCA Air Pump ",
         "image": "pump.png",
+        "description": "Baby Yoda sticker",
         "price": 42.00
     },
     {
         "id": "32",
         "title": "TISCO 50 Liter Aquarium",
         "image": "aquarium.png",
+        "description": "Baby Yoda sticker",
         "price": 70.00
     },
     {
         "id": "33",
         "title": "VEGA Fish Castle",
         "image": "castle.png",
+        "description": "Baby Yoda sticker",
         "price": 6.00
     },
     {
         "id": "34",
         "title": "TISCO Landing Net",
         "image": "net.png",
+        "description": "Baby Yoda sticker",
         "price": 4.00
     }
 ]
