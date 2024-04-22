@@ -58,5 +58,29 @@
         "title": "EGO Butterfly Toy",
         "image": "ego.png",
         "price": 8.00
+    },
+    {
+        "id": "11",
+        "title": "DOGGY Fun Set ",
+        "image": "doggy.png",
+        "price": 6.00
+    },
+    {
+        "id": "12",
+        "title": "DUNA Pillow Bed",
+        "image": "pillow.png",
+        "price": 10.00
+    },
+    {
+        "id": "13",
+        "title": "AGA Retractable Leash",
+        "image": "aga-leash.png",
+        "price": 33.00
+    },
+    {
+        "id": "14",
+        "title": "DOGGY 2-Bunch Toy ",
+        "image": "bunch.png",
+        "price": 5.00
     }
 ]
