@@ -7,9 +7,16 @@
     right: 0;
     z-index: 9999;
 }
+.container{
+    margin: auto;
+    align-items: center;
+    width: 100%;
+}
 .card{
     margin: 10px;
     border-color: white;
+    box-shadow: 10px;
+    max-width: 300px;
 }
 .btn.btn-info{
     width: 100px;
@@ -56,13 +63,17 @@ h5{
     font-weight: 400;
     color: rgb(149, 139, 126);
 }
-
+body{
+    background-color: #f5f1ef;
+}
 .main__block{
-    padding: 115px 24px 150px 24px;
-    background-image: url("../img/fon.png");
-    background-position: bottom;
+    width: 100%;
+    padding: 115px 24px 10px 24px;
 }
 .main__block-title{
+    text-align: center;
+    align-items: center;
+    margin: auto;
     font-size: 48px;
     font-weight: 700;
     font-family: "Baloo 2";
@@ -70,6 +81,9 @@ h5{
     line-height: 48px;
 }
 .main__block-text{
+    text-align: center;
+    align-items: center;
+    margin: auto;
     font-size: 19px;
     font-weight: 400;
     font-family: 'PT Sans';
@@ -78,9 +92,11 @@ h5{
 }
 .main__button-about{
     background-color: #ffe6d4;
+    align-items: center;
     color: #ed6435;
     padding: 15px 28px;
-    width: 126.4px;
+    width: 170.7px;
+    text-align: center;
     border-width: 1px;
     border-radius: 50px;
     font-size: 16.5px;
@@ -91,17 +107,20 @@ h5{
     margin-bottom: 20px;
 }
 .main__button-about:hover{
-    background-color: rgb(178, 231, 233);
-    color: #45c1c7;
+    background-color: #ed6435;
+    color: #ffe6d4;
 }
 .main__button-categories{
     background-color: none;
-    padding: 8px 28px;
+    padding: 15px 28px;
     border: solid;
     width: 170.7px;
+    align-items: center;
     border-width: 1px;
+    text-align: center;
     border-radius: 50px;
-    border-color: #45c1c7;
+    border-color: rgb(178, 231, 233);
+    background-color: rgb(178, 231, 233);
     color: #45c1c7;
     font-size: 16.5px;
     font-weight: 600;
@@ -110,9 +129,130 @@ h5{
 }
 .main__button-categories:hover{
     background-color: #45c1c7;
+    border-color: #45c1c7;
     color: white;
 }
 .main__block-buttons{
     display: flex;
     flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+.card-img-top{
+    margin: 10px 0;
+    border-width: 1px;
+    border-radius: 20px;
+}
+
+.pets__block-title{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    font-size: 50px;
+    font-family: 'Baloo 2';
+    font-weight: 700;
+    color: rgb(60, 55, 49);
+    margin: 30px;
+}
+.pets__block-text{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    font-size: 19px;
+    font-family: 'PT Sans';
+    font-weight: 400;
+    color: rgb(149, 139, 126);
+    margin: 30px;
+}
+.footer {
+    margin-top: 40px;
+    padding: 80px 20px 20px 20px;
+    background-image: url(../img/paw-fon.jpg);
+    position: relative;
+    background-size: cover;
+    color: rgb(60, 55, 49);
+}
+
+
+.footer__navigation {
+    padding: 20px 0;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.footer__nav {
+    text-align: center;
+    width: 100%;
+    line-height: 40px;
+    font-weight: 600;
+    font-size: 17px;
+    color: rgb(60, 55, 49);
+    text-decoration: none;
+}
+
+.footer__media {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.footer__media-icon {
+    padding: 7px;
+}
+
+.end__c,
+.end__d {
+    
+    text-align: center;
+    padding: 0 0 15px 0;
+    font-size: 14px;
+}
+.pets__block-carosell{
+    position: relative;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.pets__carosell-card{
+    background-color: #fff;
+    max-width: 300px;
+    width: 100%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #ffe6d4;
+    padding: 33px 20px;
+    margin: 15px -100% 15px 15px;
+    
+}
+
+.pets__card-img{
+    width: 70px;
+    height: 70px;
+    border-width: 1px;
+    border-radius: 60px;
+    align-items: center;
+    margin: 0 95px 0 95px;
+}
+.pets__card-title{
+    font-family: "Baloo 2";
+    color: #3C3731;
+    font-size: 24px;
+    font-weight: 700;
+    align-items: center;
+    text-align: center;
+    margin: 20px auto;
+}
+.pets__card-text{
+    font-family: 'PT Sans';
+    color: #958b7e;
+    font-size: 15px;
+    font-weight: 400;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding: 0 15px;
 }
