@@ -33,47 +33,84 @@
                 </div>
             </div>
         </nav>
-    </header>
-
-    <main class="container">
         <div class="main__block">
             <h1 class="main__block-title">Everything Your Pet Needs</h1>
             <p class="main__block-text">Pet supplies, food, and products from the best manufacturers.</p>
-            <div class="pets__block-carosell">
-                <div class="pets__carosell-card">
-                  <img src="img/cat.webp" alt="" class="pets__card-img">
-                  <h3 class="pets__card-title">For Cats <span style="color:#45c1c7;">→</span></h3>
-                  <p class="pets__card-text">Dry Food • Wet Food • Treats • Catnip & Grass • Litter Boxes • Bowl & Feeders • Toys • Beds •</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div id="carousel-products" class="carousel slide container" data-bs-ride="true">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carousel-products" data-bs-slide-to="0" class="active"
+                    aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carousel-products" data-bs-slide-to="1"
+                    aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carousel-products" data-bs-slide-to="2"
+                    aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carousel-products" data-bs-slide-to="3"
+                    aria-label="Slide 4"></button>
+                <button type="button" data-bs-target="#carousel-products" data-bs-slide-to="4"
+                    aria-label="Slide 5"></button>
+                <button type="button" data-bs-target="#carousel-products" data-bs-slide-to="5"
+                    aria-label="Slide 6"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="pets__carosell-card d-block w-50 mx-auto">
+                        <img src="img/cat.webp" alt="" class="pets__card-img">
+                        <h3 class="pets__card-title">For Cats <span style="color:#45c1c7;">→</span></h3>
+                        <p class="pets__card-text">Dry Food • Wet Food • Treats • Catnip & Grass • Litter Boxes • Bowl & Feeders • Toys • Beds •</p>
+                      </div>
                 </div>
-                <div class="pets__carosell-card">
-                  <img src="img/dog.webp" alt="" class="pets__card-img">
-                  <h3 class="pets__card-title">For Dogs <span style="color:#45c1c7;">→</span></h3>
-                  <p class="pets__card-text">Dry & Canned Food • Jerky • Chewy Treats • Bowls • Toys • Collar and Leashes • Clothes •</p>
+                <div class="carousel-item">
+                    <div class="pets__carosell-card d-block w-50 mx-auto">
+                        <img src="img/dog.webp" alt="" class="pets__card-img">
+                        <h3 class="pets__card-title">For Dogs <span style="color:#45c1c7;">→</span></h3>
+                        <p class="pets__card-text">Dry & Canned Food • Jerky • Chewy Treats • Bowls • Toys • Collar and Leashes • Clothes •</p>
+                      </div>
                 </div>
-                <div class="pets__carosell-card">
-                  <img src="img/parrot.webp" alt="" class="pets__card-img">
-                  <h3 class="pets__card-title">For Parrots <span style="color:#45c1c7;">→</span></h3>
-                  <p class="pets__card-text">Food • Treats • Cages & Stands • Vitamins • Bowls & Feeders • Litter & Nesting • Odor Control •</p>
+                <div class="carousel-item">
+                    <div class="pets__carosell-card d-block w-50 mx-auto">
+                        <img src="img/parrot.webp" alt="" class="pets__card-img">
+                        <h3 class="pets__card-title">For Parrots <span style="color:#45c1c7;">→</span></h3>
+                        <p class="pets__card-text">Food • Treats • Cages & Stands • Vitamins • Bowls & Feeders • Litter & Nesting • Odor Control •</p>
+                      </div>
                 </div>
-                <div class="pets__carosell-card">
-                  <img src="img/rabbit.webp" alt="" class="pets__card-img">
-                  <h3 class="pets__card-title">For Rabbits <span style="color:#45c1c7;">→</span></h3>
-                  <p class="pets__card-text">Food • Treats • Hay • Cages • Litter & Bedding • Harnesses • Toys • Odor Removers •</p>
+                <div class="carousel-item">
+                    <div class="pets__carosell-card d-block w-50 mx-auto">
+                        <img src="img/rabbit.webp" alt="" class="pets__card-img">
+                        <h3 class="pets__card-title">For Rabbits <span style="color:#45c1c7;">→</span></h3>
+                        <p class="pets__card-text">Food • Treats • Hay • Cages • Litter & Bedding • Harnesses • Toys • Odor Removers •</p>
+                      </div>
                 </div>
-                <div class="pets__carosell-card">
-                  <img src="img/fish.webp" alt="" class="pets__card-img">
-                  <h3 class="pets__card-title">For Fish <span style="color:#45c1c7;">→</span></h3>
-                  <p class="pets__card-text">Food • Feeders • Aquariums • Filters & Pumps • Cleaning • Water Care • Decore •</p>
+                <div class="carousel-item">
+                    <div class="pets__carosell-card d-block w-50 mx-auto">
+                        <img src="img/fish.webp" alt="" class="pets__card-img">
+                        <h3 class="pets__card-title">For Fish <span style="color:#45c1c7;">→</span></h3>
+                        <p class="pets__card-text">Food • Feeders • Aquariums • Filters & Pumps • Cleaning • Water Care • Decore •</p>
+                      </div>
                 </div>
-                <div class="pets__carosell-card">
-                  <img src="img/hanster.webp" alt="" class="pets__card-img">
-                  <h3 class="pets__card-title">For Hamsters <span style="color:#45c1c7;">→</span></h3>
-                  <p class="pets__card-text">Food • Soft & Chewy Treats • Litter • Furniture • Collar and Leashes • Bowls • Toys • Beds •</p>
+                <div class="carousel-item">
+                    <div class="pets__carosell-card d-block w-50 mx-auto">
+                        <img src="img/hanster.webp" alt="" class="pets__card-img">
+                        <h3 class="pets__card-title">For Hamsters <span style="color:#45c1c7;">→</span></h3>
+                        <p class="pets__card-text">Food • Soft & Chewy Treats • Litter • Furniture • Collar and Leashes • Bowls • Toys • Beds •</p>
+                      </div>
                 </div>
-                <button class="prev"> < </button>
-                <button class="next"> > </button>
-              </div>
-          </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carousel-products"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true" style="color: #45c1c7;"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carousel-products"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true" style="color: #45c1c7;"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+        
           <h2 class="pets__block-title">Any Products for Any Pets</h2>
           <p class="pets__block-text">Best picks for your beloved companions only in Happy Paw.</p>
         <div class="products-container row">

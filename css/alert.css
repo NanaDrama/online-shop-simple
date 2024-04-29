@@ -6,17 +6,19 @@
     left: 0;
     right: 0;
     z-index: 9999;
+    align-items: center;
+    margin: auto;
 }
 .container{
     margin: auto;
     align-items: center;
-    width: 100%;
 }
 .card{
     margin: 10px;
     border-color: white;
     box-shadow: 10px;
     max-width: 300px;
+    align-items: center;
 }
 .btn.btn-info{
     width: 100px;
@@ -65,9 +67,13 @@ h5{
 }
 body{
     background-color: #f5f1ef;
+    margin: auto;
+    align-items: center;
 }
 .main__block{
     width: 100%;
+    margin: auto;
+    align-items: center;
     padding: 115px 24px 10px 24px;
 }
 .main__block-title{
@@ -214,8 +220,8 @@ body{
 .pets__block-carosell{
     position: relative;
     width: 100%;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    margin: auto;
 }
 .pets__carosell-card{
     background-color: #fff;
@@ -255,4 +261,16 @@ body{
     text-align: center;
     margin: auto;
     padding: 0 15px;
+}
+.carousel-inner{
+    align-items: center;
+    margin: auto;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+    color: #45c1c7;
+}
+.products-container{
+    margin: 0 15%;
+    align-items: center;
 }
